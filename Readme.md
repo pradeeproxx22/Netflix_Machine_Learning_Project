@@ -1,27 +1,26 @@
-# Machine Learning & Data Science Projects
+# Netflix Machine Learning Projects
 
-A collection of practical Machine Learning and Data Science projects completed during internships.
+Machine Learning projects developed during my internship at Auspify Technologies using the Netflix dataset.
 
-## Projects
+### Projects
+- 🎬 Netflix Content Recommendation System
+- 🎯 Netflix Content Type Prediction
+- ⭐ Netflix Audience Rating Classification
+- 📊 Netflix Content Segmentation
 
-### 🔹 Auspify Technologies – Machine Learning Internship
-- Netflix Content Recommendation System
-- Netflix Content Type Prediction
-- Netflix Audience Rating Classification
-- Netflix Content Segmentation
-
-### 🔹 Oasis Infobyte – Data Science Internship
-- Car Price Prediction
-- Spam SMS Detection
-
-## 🛠️ Technologies
+### Technologies
 - Python
 - Pandas & NumPy
 - Scikit-learn
-- NLTK
 - Matplotlib & Seaborn
-- Machine Learning & NLP
+- Machine Learning
+- NLP & TF-IDF
+- K-Means Clustering
 
-## 👨‍💻 Author
-**Pradeep Jogi**  
-MCA | Aspiring Data Analyst
+### Key Concepts
+- Feature Engineering
+- Classification
+- Recommendation System
+- Clustering
+- Model Evaluation
+- Data Visualization
